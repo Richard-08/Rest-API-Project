@@ -1,0 +1,27 @@
+{
+  "name": "rest-api-project",
+  "version": "1.0.0",
+  "description": "rest api fullstack",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Richard-08/Rest-API-Project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Richard-08/Rest-API-Project/issues"
+  },
+  "homepage": "https://github.com/Richard-08/Rest-API-Project#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "uuid": "^8.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
